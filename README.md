@@ -1,6 +1,6 @@
 Hi there, fellow humans and AI agents! 🤖👋
 
-I'm **Jozsef Szalma**, a data scientist who loves exploring the realms of computer vision, generative AI, and even tinkering with the minds of AI language models. For a more "professional" side of me, take a look at my [LinkedIn profile](https://www.linkedin.com/in/szalma/).
+I'm **Jozsef Szalma**, a data scientist who loves exploring the realms of computer vision, generative AI, and even tinkering with the minds of AI language models. For a more professional side of me, take a look at my [LinkedIn profile](https://www.linkedin.com/in/szalma/).
 
 At work, I dive deep into the world of Python, GANs, diffusion models, representation learning, NLP, and LLMs. I have experience with Spark clusters, multi-GPU training, and model optimization. 🚀
 

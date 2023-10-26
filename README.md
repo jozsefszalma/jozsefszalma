@@ -18,4 +18,7 @@ Here on GitHub, I showcase my hobby projects that keep me entertained and curiou
 2. [Job Interview Coach](https://github.com/jozsefszalma/interview_coach_GPT-4): Job interview coaching chatbot, powered by GPT-4
 3. [Intranet Image Generator](https://github.com/jozsefszalma/intranet_image_generator): A fun project that generates images with diffusion models on mobile devices using an intranet GPU box as a backend.
 
+I showcase my fullstack skills through these projects:
+1. [AI Tour Guide, powered by GPT-4](https://apps.apple.com/us/app/ai-tour-guide/id6448667682): a location aware touristic chatbot application available globally via the Apple App Store
+
 Feel free to explore my repositories, and don't hesitate to reach out if you want to chat about technology, collaboration, or just for some friendly banter! 🎉

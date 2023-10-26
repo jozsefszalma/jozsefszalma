@@ -12,7 +12,7 @@ Some skills I've collected along the way include:
 - Horovod, Accelerate
 - Natural Language Processing (NLP)
 - Diffusion Models
-- Apache Spark
+- PySpark
 - Convolutional Neural Networks (CNN)
 - PyTorch
 - Generative Adversarial Networks (GANs)
@@ -20,6 +20,7 @@ Some skills I've collected along the way include:
 
 Here on GitHub, I showcase my hobby projects that keep me entertained and curious:
 1. [ChatGPT Prefrontal Cortex](https://github.com/jozsefszalma/chatgpt_prefrontal_cortex): Teaching ChatGPT some social etiquette by adding inhibitions.
-2. [Intranet Image Generator](https://github.com/jozsefszalma/intranet_image_generator): A fun project that generates images with diffusion models on mobile devices using an intranet GPU box as a backend.
+2. [Job Interview Coach](https://github.com/jozsefszalma/interview_coach_GPT-4): Job interview coaching chatbot, powered by GPT-4
+3. [Intranet Image Generator](https://github.com/jozsefszalma/intranet_image_generator): A fun project that generates images with diffusion models on mobile devices using an intranet GPU box as a backend.
 
 Feel free to explore my repositories, and don't hesitate to reach out if you want to chat about technology, collaboration, or just for some friendly banter! 🎉

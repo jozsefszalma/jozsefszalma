@@ -7,22 +7,26 @@ Technologies: Python, PyTorch, Spark, AWS, Databricks, Transformers, git, Docker
 ### [adidas AG](https://www.adidas-group.com/en/) (Germany)
 
 - Jan 2024 - Now
+  
 Title: Senior Data Scientist
   Tech Lead in an agile Data Science product team; supervising junior Machine Learning Engineers and Data Scientists deploying AI solutions to real-life business problems (NLP and CV in scope); full life-cycle from R&D, through deployment, to MLOps monitoring.
 
 
 - Feb 2022 - Dec 2023
+  
 Title: Data Scientist
   Data Scientist and deep learning developer specialised in NLP, computer vision, generative models, multimodality, representation learning, self-supervised learning and synthetic data.
   In addition to training and fine-tuning models I have innovated a novel deep learning architecture as well.
   My scope also included building Spark Big Data pipelines, feature stores and vector databases in a data lake infrastructure and optimising multi-GPU training and CPU-cluster inferencing.
 
 - Jul 2018 to Jan 2022
+  
 Title: Senior Manager Data Analytics
   Solution architecture, project management and hands-on data and analytics engineering (data pipelines, database servers, ELT, relational databases, batch-processing, complex business logic).
 
 ### [IBM](https://www.ibm.com/us-en) (Hungary)
-- Mar 2008 - Aug 2013 
+- Mar 2008 - Aug 2013
+
 Title: Analyst to Manager
 
 ## Project Highlights

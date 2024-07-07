@@ -90,7 +90,7 @@ GitHub: [https://github.com/jozsefszalma/](https://github.com/jozsefszalma/)
   - identified and remedied the root cause of certain model specific weaknesses.
   - Tech stack: Databricks, PyTorch, PyTorch Lightning, Horovod, PySpark
  
-- Built and trained a diffusion model, to generate fake product photographs from a list of materials and colors.
+- Built and trained a diffusion model, to generate fake product photographs from a list of materials and colors. The work included innovating novel methods to ensure the generated image showed the product from the desired viewing angle, without any additional objects or backgrounds being visible.
   - Tech stack: Databricks, PyTorch, Diffusers, PySpark
  
 - Built, trained and deployed a conditional Generative Adversarial Network, to generate fake photographs from product sketches.

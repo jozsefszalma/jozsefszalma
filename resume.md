@@ -41,6 +41,32 @@ Technologies: Python, PyTorch, Spark, AWS, Databricks, Transformers, git, Docker
 
    Title: **Analyst to Manager**
 
+## Education
+
+### London Metropolitan University
+
+   Oct 2019 - Mar 2022
+    
+   Degree: MSc, Information Technology
+  
+   Grade: with Distinction
+  
+   Thesis topic: Footwear Visual Recognition and the Implementation of a Machine Learning Pipeline in the AWS Cloud.
+  
+  
+   Additional coursework in:
+  - Database Design and Implementation,
+  - SQL Injection Attacks and Securing Databases,
+  - Mobile Application Development (Android),
+  - Serverless & NoSQL (REST APIs, lambdas, DynamoDB).
+
+### University of Sunderland
+
+   Sep 2004 - Apr 2008
+  
+   Degree: BA (Hons), Business Management
+   
+
 ## Project Highlights
 
 - Built a NLP text embedding system that is capable of comparing products based on materials, colors and other product data with the capability to weight the importance of each input.
@@ -76,27 +102,4 @@ Technologies: Python, PyTorch, Spark, AWS, Databricks, Transformers, git, Docker
 - Designed, built and deployed a data mining and dashboarding solution that cut 1 working day from month-end consolidation processes.
   - Tech stack: SQL, JavaScript, Hyperion BI
 
-## Education
 
-### London Metropolitan University
-
-   Oct 2019 - Mar 2022
-    
-   Degree: MSc, Information Technology
-  
-   Grade: with Distinction
-  
-   Thesis topic: Footwear Visual Recognition and the Implementation of a Machine Learning Pipeline in the AWS Cloud.
-  
-  
-   Additional coursework in:
-  - Database Design and Implementation,
-  - SQL Injection Attacks and Securing Databases,
-  - Mobile Application Development (Android),
-  - Serverless & NoSQL (REST APIs, lambdas, DynamoDB).
-
-### University of Sunderland
-
-   Sep 2004 - Apr 2008
-  
-   Degree: BA (Hons), Business Management

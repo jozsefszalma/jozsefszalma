@@ -8,38 +8,38 @@ Technologies: Python, PyTorch, Spark, AWS, Databricks, Transformers, git, Docker
 
 - Jan 2024 - Now
   
-    Title: **Senior Data Scientist**
+   Title: **Senior Data Scientist**
 
-    Tech Lead in an agile Data Science product team; supervising junior Machine Learning Engineers and Data Scientists deploying AI solutions to real-life business problems (NLP and CV in scope); full life-cycle from R&D, through deployment, to MLOps monitoring.
+   Tech Lead in an agile Data Science product team; supervising junior Machine Learning Engineers and Data Scientists deploying AI solutions to real-life business problems (NLP and CV in scope); full life-cycle from R&D, through deployment, to MLOps monitoring.
 
 
 - Feb 2022 - Dec 2023
   
-    Title: **Data Scientist**
+   Title: **Data Scientist**
 
-    Data Scientist and deep learning developer specialised in NLP, computer vision, generative models, multimodality, representation learning, self-supervised learning and synthetic data.
+   Data Scientist and deep learning developer specialised in NLP, computer vision, generative models, multimodality, representation learning, self-supervised learning and synthetic data.
     
-    In addition to training and fine-tuning models I have innovated a novel deep learning architecture as well.
+   In addition to training and fine-tuning models I have innovated a novel deep learning architecture as well.
     
-    My scope also included building Spark Big Data pipelines, feature stores and vector databases in a data lake infrastructure and optimising multi-GPU training and CPU-cluster inferencing.
+   My scope also included building Spark Big Data pipelines, feature stores and vector databases in a data lake infrastructure and optimising multi-GPU training and CPU-cluster inferencing.
 
 - Jul 2018 to Jan 2022
   
-    Title: **Senior Manager Data Analytics**
+   Title: **Senior Manager Data Analytics**
   
-    Solution architecture, project management and hands-on data and analytics engineering (data pipelines, database servers, ELT, relational databases, batch-processing, complex business logic).
+   Solution architecture, project management and hands-on data and analytics engineering (data pipelines, database servers, ELT, relational databases, batch-processing, complex business logic).
 
   - Sep 2013 - Jun 2018
   
-    Title: **Senior Manager R2R**
+   Title: **Senior Manager R2R**
   
-    People management and SAP-adjacent analytics.
+   People management and SAP-adjacent analytics.
 
 
 ### [IBM](https://www.ibm.com/us-en) (Hungary)
 - Mar 2008 - Aug 2013
 
-    Title: **Analyst to Manager**
+   Title: **Analyst to Manager**
 
 ## Project Highlights
 
@@ -79,22 +79,22 @@ Technologies: Python, PyTorch, Spark, AWS, Databricks, Transformers, git, Docker
 ## Education
 
 ### London Metropolitan University
-    Oct 2019 - Mar 2022
+   Oct 2019 - Mar 2022
+    
+   Degree: MSc, Information Technology
   
-    Degree: MSc, Information Technology
+   Grade: with Distinction
   
-    Grade: with Distinction
-  
-    Thesis topic: Footwear Visual Recognition and the Implementation of a Machine Learning Pipeline in the AWS Cloud
+   Thesis topic: Footwear Visual Recognition and the Implementation of a Machine Learning Pipeline in the AWS Cloud
   
   
-    Additional coursework in:
+   Additional coursework in:
   - Database Design and Implementation
   - SQL Injection Attacks and Securing Databases
   - Mobile Application Development (Android)
   - Serverless & NoSQL (REST APIs, lambdas, DynamoDB)
 
 ### University of Sunderland
-    Sep 2004 - Apr 2008
+   Sep 2004 - Apr 2008
   
-    Degree: BA (Hons), Business Management
+   Degree: BA (Hons), Business Management

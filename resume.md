@@ -81,7 +81,7 @@ GitHub: [https://github.com/jozsefszalma/](https://github.com/jozsefszalma/)
 - Innovated, trained and deployed a novel deep learning architecture (Multi-Path Asymmetric InfoVAE) capable of combining multiple embeddings into a single compressed representation.
   - Tech stack: Databricks, PyTorch
  
-- Build an iOS mobile tour guide app, wrapping OpenAI's GPT-4, including an AWS backend REST API to handle API-proxying, purchasing, authentication.
+- Built an iOS mobile tour guide app, wrapping OpenAI's GPT-4, including an AWS backend REST API to handle API-proxying, purchasing, authentication.
   - Tech stack: iOS, Swift, AWS, Python
 
 - Refactored and retrained a proprietary self-supervised visual embedding model;

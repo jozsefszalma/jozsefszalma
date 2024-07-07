@@ -99,7 +99,7 @@ GitHub: [https://github.com/jozsefszalma/](https://github.com/jozsefszalma/)
 - Built a machine learning visual-similarity pipeline and REST API for footwear visual recognition, capable of identifying shoe models down to article number from consumer-provided photographs.
   - Tech stack: AWS, TensorFlow, Keras
  
-- Designed, built and deployed a global FIFO inventory management system, to track transfer pricing information.
+- Designed, built and deployed a global FIFO inventory management system, to track and report transfer pricing information.
   - Tech stack: SQL Server, SSIS data pipelines, SAP
 
 - Designed and architected solutions, and provided consulting support during the development and deployment of three separate SAP HANA-based systems to automate global processes.

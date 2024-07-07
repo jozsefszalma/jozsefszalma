@@ -46,7 +46,7 @@ GitHub: [https://github.com/jozsefszalma/](https://github.com/jozsefszalma/)
 
 ## Education
 
-### London Metropolitan University
+### [London Metropolitan University](https://www.londonmet.ac.uk/)
 
    Oct 2019 - Mar 2022
     
@@ -63,7 +63,7 @@ GitHub: [https://github.com/jozsefszalma/](https://github.com/jozsefszalma/)
   - Mobile Application Development (Android),
   - Serverless & NoSQL (REST APIs, lambdas, DynamoDB).
 
-### University of Sunderland
+### [University of Sunderland](https://www.sunderland.ac.uk/)
 
    Sep 2004 - Apr 2008
   

@@ -69,7 +69,7 @@ Technologies: Python, PyTorch, Spark, AWS, Databricks, Transformers, git, Docker
 
 ## Project Highlights
 
-- Built a NLP text embedding system that is capable of comparing products based on materials, colors and other product data with the capability to weight the importance of each input.
+- Built a NLP text embedding system capable of comparing products based on materials, colors and other product data with the capability to weight the importance of each input.
   - Tech stack: Databricks, Transformers, PySpark  
 
 - Built a multi-modal search engine capable of mapping natural language search terms to product images
@@ -87,7 +87,7 @@ Technologies: Python, PyTorch, Spark, AWS, Databricks, Transformers, git, Docker
   - identified and remedied the root cause of certain model specific weaknesses.
   - Tech stack: Databricks, PyTorch, PyTorch Lightning, Horovod, PySpark
  
-- Built and trained a diffusion model, to generate fake photographs from a list of materials and colors.
+- Built and trained a diffusion model, to generate fake product photographs from a list of materials and colors.
   - Tech stack: Databricks, PyTorch, Diffusers, PySpark
  
 - Built, trained and deployed a conditional Generative Adversarial Network, to generate fake photographs from product sketches.
@@ -98,8 +98,11 @@ Technologies: Python, PyTorch, Spark, AWS, Databricks, Transformers, git, Docker
  
 - Designed, built and deployed a global FIFO inventory management system, to track transfer pricing information.
   - Tech stack: SQL Server, SSIS data pipelines, SAP
+
+- Designed and architected solutions, and provided consulting support during the development and deployment of three separate SAP HANA-based systems to automate global processes.
+  - Tech stack: SAP, SAP-HANA
  
 - Designed, built and deployed a data mining and dashboarding solution that cut 1 working day from month-end consolidation processes.
-  - Tech stack: SQL, JavaScript, Hyperion BI
+  - Tech stack: SQL, JavaScript, Db2, Hyperion BI
 
 

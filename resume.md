@@ -3,7 +3,7 @@ Senior AI/ML Engineer; by day I build generative models and computer vision, by 
 Technologies: Python, PyTorch, Spark, AWS, Databricks, Transformers, git, Docker, MLflow
 
 LinkedIn: [https://www.linkedin.com/in/szalma/](https://www.linkedin.com/in/szalma/)   
-GitHub: [https://github.com/jozsefszalma](https://www.linkedin.com/in/szalma/)
+GitHub: [https://github.com/jozsefszalma/](https://github.com/jozsefszalma/)
 
 ## Employment
 

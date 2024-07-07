@@ -29,7 +29,7 @@ Technologies: Python, PyTorch, Spark, AWS, Databricks, Transformers, git, Docker
   
    Solution architecture, project management and hands-on data and analytics engineering (data pipelines, database servers, ELT, relational databases, batch-processing, complex business logic).
 
-  - Sep 2013 - Jun 2018
+- Sep 2013 - Jun 2018
   
    Title: **Senior Manager R2R**
   
@@ -79,6 +79,7 @@ Technologies: Python, PyTorch, Spark, AWS, Databricks, Transformers, git, Docker
 ## Education
 
 ### London Metropolitan University
+
    Oct 2019 - Mar 2022
     
    Degree: MSc, Information Technology
@@ -95,6 +96,7 @@ Technologies: Python, PyTorch, Spark, AWS, Databricks, Transformers, git, Docker
   - Serverless & NoSQL (REST APIs, lambdas, DynamoDB)
 
 ### University of Sunderland
+
    Sep 2004 - Apr 2008
   
    Degree: BA (Hons), Business Management

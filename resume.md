@@ -102,7 +102,7 @@ GitHub: [https://github.com/jozsefszalma/](https://github.com/jozsefszalma/)
 - Designed, built and deployed a global FIFO inventory management system, to track and report transfer pricing information.
   - Tech stack: SQL Server, SSIS data pipelines, SAP
 
-- Designed and architected solutions, and provided consulting support during the development and deployment of three separate SAP HANA-based systems to automate global processes.
+- Designed, architected and prototyped solutions, and provided consulting support during the development and deployment of three separate SAP HANA-based systems to automate global processes.
   - Tech stack: SAP, SAP-HANA
  
 - Designed, built and deployed a data mining and dashboarding solution that cut 1 working day from month-end consolidation processes.

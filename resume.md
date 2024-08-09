@@ -36,7 +36,7 @@ GitHub: [https://github.com/jozsefszalma/](https://github.com/jozsefszalma/)
   
    Title: **Senior Manager R2R**
   
-   People management and SAP-adjacent analytics.
+   People management (up to 14 FTEs) and SAP-adjacent analytics & reporting.
 
 
 ### [IBM](https://www.ibm.com/us-en) (Hungary)

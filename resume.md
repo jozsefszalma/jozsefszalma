@@ -9,7 +9,7 @@ GitHub: [https://github.com/jozsefszalma/](https://github.com/jozsefszalma/)
 
 ### [adidas AG](https://www.adidas-group.com/en/) (Germany)
 
-- Jan 2024 - Now
+- Jan 2024 - Aug 2024
   
    Title: **Senior Data Scientist**
 

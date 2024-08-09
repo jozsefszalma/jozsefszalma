@@ -93,7 +93,7 @@ GitHub: [https://github.com/jozsefszalma/](https://github.com/jozsefszalma/)
 - Built and trained a diffusion model, to generate fake product photographs from a list of materials and colors. The work included innovating novel methods to ensure the generated image showed the product from the desired viewing angle, without any additional objects or backgrounds being visible.
   - Tech stack: Databricks, PyTorch, Diffusers, PySpark
  
-- Built, trained and deployed a conditional Generative Adversarial Network, to generate fake photographs from product sketches.
+- Built, trained and deployed a conditional Generative Adversarial Network, to generate fake photographs from product sketches. The work included innovating novel methods control the quality of the generated images where ground truth was not available, e.g. by repurposing the discriminator model of the GANs.
   - Tech stack: AWS, Databricks, PyTorch, PyTorch Lightning, PySpark
  
 - Built a machine learning visual-similarity pipeline and REST API for footwear visual recognition, capable of identifying shoe models down to article number from consumer-provided photographs.

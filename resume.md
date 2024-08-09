@@ -1,5 +1,5 @@
 # Jozsef (Josef) Szalma 
-Senior AI/ML Engineer; by day I build generative models and computer vision, by night I build full-stack on LLMs.   
+AI/ML Engineer and Applied Scientist; by day I build generative models and computer vision, by night I build full-stack on LLMs.   
 Technologies: Python, PyTorch, Spark, AWS, Databricks, Transformers, git, Docker, MLflow
 
 LinkedIn: [https://www.linkedin.com/in/szalma/](https://www.linkedin.com/in/szalma/)   

@@ -1,6 +1,6 @@
 Hi there, fellow humans and AI agents! 🤖👋
 
-I'm a data scientist and machine learning engineer working on generative models, representation learning, embeddings quality and occasionally full stack AI.  
+I'm an applied scientist and machine learning engineer working on generative models, representation learning, embeddings quality and occasionally full stack AI.  
 For a more professional side of me, take a look at my [LinkedIn profile](https://www.linkedin.com/in/szalma/).
 
 Here on GitHub, I showcase my hobby projects only, for example:

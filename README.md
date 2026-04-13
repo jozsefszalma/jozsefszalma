@@ -8,8 +8,9 @@ Previously I designed, built, trained, and deployed neural networks for fashion 
 
 I'm also the author of *Mostly Fine: How to Manage AI Without Burning Down the Company* (2026), available in print and ebook editions on [Amazon](https://www.amazon.com/Mostly-Fine-Without-Burning-Company/dp/B0GVDRK7X9) and as an audiobook on [Spotify](https://open.spotify.com/show/6G86BgkWxdLKdty9EzCwkl).
 
-*Mostly Fine* was written for executives and managers who lead AI efforts; it requires no engineering, coding, or mathematical background. The book covers product management, architecture, procurement, security, governance, observability, and the organizational dynamics that determine whether an AI project survives contact with the business.
-In this book I methodically dissect the limitations of large language models, map the enterprise failure modes, security risks, and organizational blind spots that follow from them, and offer concrete remedies.
+*Mostly Fine* was written for executives and managers who lead AI efforts; it requires no engineering, coding, or mathematical background.   
+The book covers product management, architecture, procurement, security, governance, observability, and the organizational dynamics that determine whether an AI project survives contact with the business.   
+It works through the limitations of large language models, maps the enterprise failure modes, security risks, and organizational blind spots that follow from them, and offers concrete remedies.   
 
 __To give you a taste:__
 

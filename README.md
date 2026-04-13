@@ -16,7 +16,7 @@ __To give you a taste:__
 
 Excerpt from *Mostly Fine: How to Manage AI Without Burning Down the Company* by Jozsef Szalma (2026) - ISBN 979-8252312774. All rights reserved.
 
-From the section *Crystallized Knowledge*, pages 22 to 24.
+From the section *Crystallized Knowledge*, pages 22 to 24. The elevator pitch: **AI is trained mostly on conclusions; your business runs on tacit knowledge.**   
 
 ## Organizational Intent
 A more specific aspect of tacit knowledge is **organizational intent**.

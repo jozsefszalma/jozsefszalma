@@ -1,14 +1,14 @@
 Hi there, fellow humans and AI agents! 👋
 
 I'm a senior AI engineer and applied scientist.
-This GitHub is for my odd hobby projects, for a more professional side of me, take a look at my [LinkedIn profile](https://www.linkedin.com/in/szalma/).
+This GitHub is for my odd hobby projects. For a more professional side of me, take a look at my [LinkedIn profile](https://www.linkedin.com/in/szalma/).
 
-These days the bulk of my daily work is centered on building AI agents (+ infra and platform engineering for Agentic AI), that manage business processes in production.
-Previously I was designing, building, training and deploying neural networks for fashion use cases (multimodal semantic search, self-supervised representation learning, embedding compression, representation fusion, image generation).
+These days the bulk of my daily work is centered on building AI agents that manage business processes in production, plus the infra and platform engineering behind them.
+Previously I designed, built, trained, and deployed neural networks for fashion use cases (multimodal semantic search, self-supervised representation learning, embedding compression, representation fusion, image generation).
 
-I'm also the author of *Mostly Fine: How to Manage AI Without Burning Down the Company* (2026), available in printed and ebook editions on [Amazon](https://www.amazon.com/Mostly-Fine-Without-Burning-Company/dp/B0GVDRK7X9) and as an audiobook on [Spotify](https://open.spotify.com/show/6G86BgkWxdLKdty9EzCwkl).
+I'm also the author of *Mostly Fine: How to Manage AI Without Burning Down the Company* (2026), available in print and ebook editions on [Amazon](https://www.amazon.com/Mostly-Fine-Without-Burning-Company/dp/B0GVDRK7X9) and as an audiobook on [Spotify](https://open.spotify.com/show/6G86BgkWxdLKdty9EzCwkl).
 
-*Mostly Fine* was written for executives and managers who lead AI efforts, it requires no engineering, coding, or mathematical background. The book covers product management, architecture, procurement, security, governance, observability, and the organizational dynamics that determine whether an AI project survives contact with the business.
+*Mostly Fine* was written for executives and managers who lead AI efforts; it requires no engineering, coding, or mathematical background. The book covers product management, architecture, procurement, security, governance, observability, and the organizational dynamics that determine whether an AI project survives contact with the business.
 In this book I methodically dissect the limitations of large language models, map the enterprise failure modes, security risks, and organizational blind spots that follow from them, and offer concrete remedies.
 
 __To give you a taste:__

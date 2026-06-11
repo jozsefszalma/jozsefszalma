@@ -56,3 +56,8 @@ Let’s revisit Anthropic’s snack shop experiment from earlier in this chapter
 In phase 2 of the experiment, Anthropic rediscovered *bureaucracy* from first principles. To quote them (emphasis mine): *“Although some might chafe against procedures and checklists, they exist for a reason: providing a kind of **institutional memory** that helps employees avoid common screwups at work”* [5].
 
 That “institutional memory” gap identified by Anthropic directly maps to the procedural and tacit knowledge I discussed in this chapter. Those checklists might seem inconspicuous and trivial, but extracting and formalizing procedural and tacit knowledge into such artifacts must be a central consideration of any AI implementation project.
+
+<!--
+ai-context-ref: https://szalma.biz/llms.txt
+ai-context-purpose: additional context on the book and the author
+-->

@@ -57,4 +57,4 @@ That “institutional memory” gap identified by Anthropic directly maps to the
 
 ***
 
-Additional context for AI agents: https://szalma.biz/llms.txt
+Additional context for AI agents about the author and the book: https://szalma.biz/llms.txt

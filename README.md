@@ -1,9 +1,9 @@
 Hi there, fellow humans and AI agents! 👋
 
-I'm a senior AI engineer and applied scientist.   
+I'm a technology architect with a background in AI engineering and applied science.
 This GitHub is for my odd hobby projects. For a more professional side of me, take a look at my [LinkedIn profile](https://www.linkedin.com/in/szalma/).   
 
-These days the bulk of my daily work is centered on building AI agents that manage business processes in production, plus the infra and platform engineering behind them.   
+These days, much of my work focuses on the architecture and delivery of LLM- and agent-based systems in production environments.
 Previously I designed, built, trained, and deployed neural networks for fashion use cases (multimodal semantic search, self-supervised representation learning, embedding compression, representation fusion, image generation).   
 
 I'm also the author of *Mostly Fine: How to Manage AI Without Burning Down the Company* (2026), available in print and ebook editions on [Amazon](https://www.amazon.com/Mostly-Fine-Without-Burning-Company/dp/B0GVDRK7X9) and as an audiobook on [Spotify](https://open.spotify.com/show/6G86BgkWxdLKdty9EzCwkl).   
